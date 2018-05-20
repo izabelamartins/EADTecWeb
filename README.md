@@ -1,6 +1,5 @@
 # EADTecWeb
-TP da disciplina de TecWeb 
-Arquivos de WS significam o WebService Criado
+Arquivos de WS significam o WebService Criado.
 Classes, modelos e bibliotecas necessarias estão na pasta.
 Foi utilizado a biblioteca do PostGre, porque nao conseguimos acesso ao MySQL no Azure.
 Banco de dados que foi realizado teste foi em banco de dados local.
